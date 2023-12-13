@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Rubeus Hagrid - My Favorite Harry Potter Character
 ---
 
