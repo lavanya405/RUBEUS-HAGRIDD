@@ -1,5 +1,4 @@
----
-title: Rubeus Hagrid - My Favorite Harry Potter Character
+
 ---
 
 # Rubeus Hagrid: The Keeper of Keys and Grounds
